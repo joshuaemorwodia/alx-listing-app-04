@@ -1,0 +1,25 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "Luxury Villa",
+      "location": "Lagos, Nigeria",
+      "price": 85000,
+      "imageUrl": "/images/property1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "City Apartment",
+      "location": "Abuja, Nigeria",
+      "price": 60000,
+      "imageUrl": "/images/property2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Beach House",
+      "location": "Port Harcourt, Nigeria",
+      "price": 95000,
+      "imageUrl": "/images/property3.jpg"
+    }
+  ]
+}
