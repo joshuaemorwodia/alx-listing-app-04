@@ -138,3 +138,11 @@ npm install
 
 ```bash
 npm install -g json-server
+### 🧾 Review Feature
+
+- Dynamically fetches reviews for each property using JSON Server.
+- Endpoint: `/reviews?propertyId={id}`
+- Example:
+  ```bash
+  http://localhost:3001/reviews?propertyId=1
+
