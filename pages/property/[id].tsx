@@ -1,3 +1,10 @@
+import ReviewSection from "@/components/property/ReviewSection";
+
+...
+
+<ReviewSection propertyId={property.id} />
+
+
 import { useRouter } from "next/router";
 import axios from "axios";
 import { useState, useEffect } from "react";
