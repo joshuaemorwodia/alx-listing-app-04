@@ -106,6 +106,32 @@ A simple property listing application built with **Next.js**, **TypeScript**, an
 
 ### 🔧 Prerequisites
 
+# alx-listing-app-04
+
+## 📌 Project Overview
+This is a dynamic property listing app built with Next.js. It allows users to browse properties, make bookings, and leave reviews. The app fetches data from a REST API and supports dynamic rendering.
+
+## 🏗 Features
+- View property listings
+- Dynamic routing for property pages
+- Booking form with API submission
+- JSON Server for mock backend
+- Review system
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js
+- npm or yarn
+- JSON Server (for local API)
+
+### Installation
+```bash
+git clone https://github.com/joshuaemorwodia/alx-listing-app-04.git
+cd alx-listing-app-04
+npm install
+
+
 - Node.js and npm installed
 - Git installed
 - JSON Server installed globally:
